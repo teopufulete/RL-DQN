@@ -1,1 +1,3 @@
-# Reinforcement-Learning-DQN-cartpole
+# Reinforcement-Learning-DQN
+Cartpole implementation
+To do: generalize for atari games
